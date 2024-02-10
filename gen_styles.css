@@ -1,0 +1,32 @@
+﻿.lg_fm {
+    padding-left:10px;
+    padding-right:10px;
+    position:absolute;
+    left:35%;
+    top:35%;
+    background-color:rgba(255, 255, 255,0.9);
+    border-radius:5px 5px 5px 5px;
+    width: 410px;
+}
+body {
+    background-image:url("~/HD-3D-Abstract-Wallpapers-1080p-Math.jpg");
+    background-size:cover;
+}
+
+.butn {
+    
+    padding-left:10px;
+    padding-right:10px;
+    padding-top:5px;
+    padding-bottom:5px;
+    border-color:black;
+    border-style:solid;
+    border-color:black;
+    font-family:Impact;
+    text-align:center;
+    border-radius:2px 2px 2px 2px;
+}
+.tbs {
+    border-radius:5px 5px 5px 5px;
+    color:green;
+}
